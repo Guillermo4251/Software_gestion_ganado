@@ -1,0 +1,11 @@
+[30-Sep-2024 18:04:45 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/mascotas/index.php on line 129
+[30-Sep-2024 18:07:54 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/mascotas/index.php on line 129
+[30-Sep-2024 18:27:09 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/mascotas/index.php on line 129
+[30-Sep-2024 18:27:22 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/mascotas/insertar.php:25) in /home7/cbu91029/public_html/citt/usuario/mascotas/insertar.php on line 34
+[30-Sep-2024 18:27:51 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/mascotas/index.php on line 129
+[30-Sep-2024 18:27:54 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/mascotas/index.php on line 129
+[30-Sep-2024 18:28:17 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/mascotas/insertar.php:25) in /home7/cbu91029/public_html/citt/usuario/mascotas/insertar.php on line 34
+[30-Sep-2024 18:28:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/mascotas/index.php on line 129
+[30-Sep-2024 18:28:33 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/mascotas/index.php on line 129
+[30-Sep-2024 18:29:14 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/mascotas/index.php on line 129
+[30-Sep-2024 18:29:17 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/mascotas/index.php on line 129

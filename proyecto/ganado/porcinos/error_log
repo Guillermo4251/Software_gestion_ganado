@@ -1,0 +1,1038 @@
+[06-May-2024 21:20:27 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/gestion.php on line 33
+[06-May-2024 21:20:27 America/Santiago] PHP Notice:  Undefined variable: query in /home7/cbu91029/public_html/citt/usuario/gestion.php on line 184
+[06-May-2024 21:20:27 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/gestion.php on line 184
+[06-May-2024 21:42:09 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 36
+[06-May-2024 21:42:09 America/Santiago] PHP Notice:  Undefined variable: query in /home7/cbu91029/public_html/citt/usuario/animal.php on line 187
+[06-May-2024 21:42:09 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 187
+[06-May-2024 22:19:21 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:19:21 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:19:21 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:19:21 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:20:11 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:20:11 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:20:11 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:20:11 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 188
+[06-May-2024 22:20:12 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:20:12 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:20:12 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:20:12 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 188
+[06-May-2024 22:20:13 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:20:13 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:20:13 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:20:13 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 188
+[06-May-2024 22:20:13 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:20:13 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:20:13 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:20:13 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 188
+[06-May-2024 22:20:14 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:20:14 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:20:14 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:20:14 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 188
+[06-May-2024 22:23:28 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:23:28 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:23:28 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:23:28 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:29:31 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:31 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:31 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:29:31 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:29:37 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:37 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:37 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:29:37 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:29:38 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:38 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:38 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:29:38 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:29:39 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:39 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:39 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:29:39 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:29:39 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:39 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:39 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:29:39 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:29:40 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:29:40 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:29:40 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:29:40 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:29:40 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:32:55 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:32:55 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:32:55 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:32:55 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:45 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:45 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:45 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:45 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:46 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:46 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:46 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:46 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:46 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:46 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:46 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:46 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:47 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:47 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:47 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:47 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:47 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:47 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:47 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:47 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:47 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:47 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:47 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:47 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:48 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:48 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:48 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:48 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:48 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:48 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:49 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:49 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:49 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:49 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:49 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:49 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:49 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:49 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:50 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:50 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:50 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:50 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:33:51 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:51 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:33:51 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:33:51 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:35:55 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:35:55 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:35:55 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:35:55 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:38:11 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:38:11 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:38:11 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:38:11 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:38:13 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:38:13 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:38:13 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:38:13 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:27 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:27 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:27 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:27 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:28 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:28 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:28 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:28 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:28 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:28 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:28 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:28 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:29 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:29 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:29 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:29 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:29 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:30 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:30 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:30 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:30 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:30 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:30 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:30 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:31 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:31 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:31 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:31 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:31 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:31 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:40:32 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:40:32 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 38
+[06-May-2024 22:40:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 189
+[06-May-2024 22:42:50 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:42:50 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:42:50 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 43
+[06-May-2024 22:42:50 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 194
+[06-May-2024 22:45:29 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:29 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:29 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 47
+[06-May-2024 22:45:29 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 198
+[06-May-2024 22:45:31 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:31 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:31 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 47
+[06-May-2024 22:45:31 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 198
+[06-May-2024 22:45:31 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:31 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:31 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 47
+[06-May-2024 22:45:31 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 198
+[06-May-2024 22:45:32 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 47
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 198
+[06-May-2024 22:45:32 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 47
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 198
+[06-May-2024 22:45:32 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 47
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 198
+[06-May-2024 22:45:32 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 47
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 198
+[06-May-2024 22:45:32 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 47
+[06-May-2024 22:45:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 198
+[06-May-2024 22:45:33 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:33 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:33 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 47
+[06-May-2024 22:45:33 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 198
+[06-May-2024 22:45:38 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:38 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:45:38 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 47
+[06-May-2024 22:45:38 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 198
+[06-May-2024 22:48:37 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:48:37 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:48:37 America/Santiago] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/animal.php on line 61
+[06-May-2024 22:48:37 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 212
+[06-May-2024 22:49:17 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:49:17 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:49:17 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 212
+[06-May-2024 22:50:42 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 211
+[06-May-2024 22:50:42 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 211
+[06-May-2024 22:51:51 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:51:51 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 4
+[06-May-2024 22:51:51 America/Santiago] PHP Notice:  Undefined variable: connect in /home7/cbu91029/public_html/citt/usuario/animal.php on line 6
+[06-May-2024 22:52:40 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 22:57:49 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 22:57:50 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 22:57:51 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 22:57:51 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 22:57:51 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 22:57:51 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 22:57:51 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 22:57:51 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 22:57:52 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 22:57:52 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 208
+[06-May-2024 23:01:13 America/Santiago] PHP Notice:  Undefined variable: resultado in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 38
+[06-May-2024 23:03:11 America/Santiago] PHP Notice:  Undefined variable: resultado in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 38
+[06-May-2024 23:05:21 America/Santiago] PHP Notice:  Undefined variable: resultado in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 38
+[06-May-2024 23:06:36 America/Santiago] PHP Notice:  Undefined index: id_padre in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 14
+[06-May-2024 23:06:36 America/Santiago] PHP Notice:  Undefined index: id_madre in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 15
+[06-May-2024 23:06:36 America/Santiago] PHP Notice:  Undefined variable: resultado in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 38
+[06-May-2024 23:12:04 America/Santiago] PHP Notice:  Undefined variable: resultado in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 38
+[06-May-2024 23:14:40 America/Santiago] PHP Notice:  Undefined index: id_padre in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 14
+[06-May-2024 23:14:40 America/Santiago] PHP Notice:  Undefined index: id_madre in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 15
+[06-May-2024 23:16:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 17
+[06-May-2024 23:16:32 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 17
+[06-May-2024 23:18:31 America/Santiago] PHP Notice:  Undefined index: animal in /home7/cbu91029/public_html/citt/usuario/insertar_animal.php on line 13
+[06-May-2024 23:23:47 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 10
+[06-May-2024 23:23:47 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 16
+[06-May-2024 23:23:47 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 16
+[06-May-2024 23:23:47 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 20
+[06-May-2024 23:23:47 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 20
+[06-May-2024 23:23:47 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 24
+[06-May-2024 23:23:47 America/Santiago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 24
+[06-May-2024 23:24:32 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 10
+[06-May-2024 23:24:32 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 16
+[06-May-2024 23:24:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 16
+[06-May-2024 23:24:32 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 20
+[06-May-2024 23:24:32 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 20
+[06-May-2024 23:24:32 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 24
+[06-May-2024 23:24:32 America/Santiago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 24
+[06-May-2024 23:26:58 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 10
+[06-May-2024 23:26:58 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 16
+[06-May-2024 23:26:58 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 16
+[06-May-2024 23:26:58 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 20
+[06-May-2024 23:26:58 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 20
+[06-May-2024 23:26:58 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 24
+[06-May-2024 23:26:58 America/Santiago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 24
+[06-May-2024 23:27:59 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 16
+[06-May-2024 23:27:59 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 16
+[06-May-2024 23:27:59 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 20
+[06-May-2024 23:27:59 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 20
+[06-May-2024 23:27:59 America/Santiago] PHP Notice:  Undefined variable: conn in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 24
+[06-May-2024 23:27:59 America/Santiago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home7/cbu91029/public_html/citt/usuario/eliminar_animal.php on line 24
+[06-May-2024 23:31:59 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 195
+[06-May-2024 23:32:48 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 195
+[06-May-2024 23:33:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/animal.php on line 195
+[06-May-2024 23:44:23 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 10
+[06-May-2024 23:44:23 America/Santiago] PHP Notice:  Undefined index: animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 14
+[06-May-2024 23:44:23 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 18
+[06-May-2024 23:45:12 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 10
+[06-May-2024 23:45:12 America/Santiago] PHP Notice:  Undefined index: animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 14
+[06-May-2024 23:45:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 18
+[06-May-2024 23:47:20 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 10
+[06-May-2024 23:47:20 America/Santiago] PHP Notice:  Undefined index: animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 14
+[06-May-2024 23:47:20 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 18
+[06-May-2024 23:47:44 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 10
+[06-May-2024 23:47:44 America/Santiago] PHP Notice:  Undefined index: animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 14
+[06-May-2024 23:47:44 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 18
+[06-May-2024 23:48:29 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 10
+[06-May-2024 23:48:29 America/Santiago] PHP Notice:  Undefined index: animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 14
+[06-May-2024 23:48:29 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 18
+[06-May-2024 23:48:36 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 10
+[06-May-2024 23:48:36 America/Santiago] PHP Notice:  Undefined index: animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 14
+[06-May-2024 23:48:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 18
+[06-May-2024 23:48:43 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 10
+[06-May-2024 23:48:43 America/Santiago] PHP Notice:  Undefined index: animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 14
+[06-May-2024 23:48:43 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 18
+[06-May-2024 23:48:48 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 10
+[06-May-2024 23:48:48 America/Santiago] PHP Notice:  Undefined index: animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 14
+[06-May-2024 23:48:48 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 18
+[06-May-2024 23:51:17 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 10
+[06-May-2024 23:51:17 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/actualizar_animal.php on line 18
+[13-May-2024 21:42:22 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 2
+[13-May-2024 21:42:22 America/Santiago] PHP Notice:  Trying to access array offset on value of type null in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 2
+[13-May-2024 21:42:25 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 2
+[13-May-2024 21:42:25 America/Santiago] PHP Notice:  Trying to access array offset on value of type null in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 2
+[13-May-2024 21:42:32 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 2
+[13-May-2024 21:42:32 America/Santiago] PHP Notice:  Trying to access array offset on value of type null in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 2
+[13-May-2024 21:42:35 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 2
+[13-May-2024 21:42:35 America/Santiago] PHP Notice:  Trying to access array offset on value of type null in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 2
+[13-May-2024 22:11:26 America/Santiago] PHP Notice:  Undefined index: usuario in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 3
+[13-May-2024 22:11:30 America/Santiago] PHP Notice:  Undefined index: usuario in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 3
+[28-May-2024 01:48:33 America/Santiago] PHP Notice:  Undefined variable: resultado in /home7/cbu91029/public_html/citt/usuario/animales/insertar_animal.php on line 39
+[28-May-2024 01:50:50 America/Santiago] PHP Notice:  Undefined variable: resultado in /home7/cbu91029/public_html/citt/usuario/animales/insertar_animal.php on line 39
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:28:08 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:28:33 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:28:36 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:28:42 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:29:16 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:29:28 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[11-Jun-2024 11:29:37 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 177
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 178
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 179
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 237
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 239
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 240
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 245
+[16-Jun-2024 17:45:25 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/animales/index.php on line 249
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 177
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 178
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 179
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 237
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 249
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 177
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 178
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 179
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 237
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 18:50:50 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 249
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 177
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 178
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 179
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 237
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 249
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 177
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 178
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 179
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 237
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 18:51:37 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 249
+[16-Jun-2024 18:57:54 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 236
+[16-Jun-2024 18:57:54 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 238
+[16-Jun-2024 18:57:54 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 18:57:54 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 18:57:54 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 18:57:54 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 236
+[16-Jun-2024 18:57:54 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 238
+[16-Jun-2024 18:57:54 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 18:57:54 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 18:57:54 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:00:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 237
+[16-Jun-2024 19:00:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 19:00:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:00:21 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:00:21 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 249
+[16-Jun-2024 19:00:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 237
+[16-Jun-2024 19:00:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 19:00:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:00:21 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:00:21 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 249
+[16-Jun-2024 19:03:15 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 19:03:15 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 241
+[16-Jun-2024 19:03:15 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:03:15 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:03:15 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 251
+[16-Jun-2024 19:03:15 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 19:03:15 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 241
+[16-Jun-2024 19:03:15 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:03:15 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:03:15 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 251
+[16-Jun-2024 19:04:20 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 19:04:20 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 241
+[16-Jun-2024 19:04:20 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:04:20 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:04:20 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 251
+[16-Jun-2024 19:04:20 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 239
+[16-Jun-2024 19:04:20 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 241
+[16-Jun-2024 19:04:20 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:04:20 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:04:20 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 251
+[16-Jun-2024 19:05:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:05:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:05:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:05:36 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:05:36 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:05:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:05:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:05:36 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:05:36 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:05:36 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:09:48 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 251
+[16-Jun-2024 19:09:48 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 253
+[16-Jun-2024 19:09:48 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 254
+[16-Jun-2024 19:09:48 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[16-Jun-2024 19:09:48 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:09:48 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 251
+[16-Jun-2024 19:09:48 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 253
+[16-Jun-2024 19:09:48 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 254
+[16-Jun-2024 19:09:48 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[16-Jun-2024 19:09:48 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:24:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:24:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:24:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:24:40 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:24:40 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:24:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:24:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:24:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:24:40 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:24:40 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:25:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:25:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:25:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:25:06 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:25:06 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:25:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:25:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:25:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:25:06 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:25:06 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:25:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:25:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:25:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:25:21 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:25:21 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:25:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:25:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:25:21 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:25:21 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:25:21 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:25:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:25:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:25:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:25:35 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:25:35 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:25:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:25:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:25:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:25:35 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:25:35 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:25:47 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:25:47 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:25:47 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:25:47 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:25:47 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:25:47 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:25:47 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:25:47 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:25:47 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:25:47 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:26:05 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:26:05 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:26:05 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:26:05 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:26:05 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:26:05 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:26:05 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:26:05 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:26:05 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:26:05 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:26:23 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:26:23 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:26:23 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:26:23 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:26:23 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:26:23 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:26:23 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:26:23 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:26:23 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:26:23 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:26:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:26:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:26:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:26:37 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:26:37 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:26:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:26:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:26:37 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:26:37 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:26:37 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:27:00 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:27:00 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:27:00 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:27:00 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:27:00 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:27:00 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:27:00 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:27:00 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:27:00 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:27:00 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:27:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:27:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:27:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:27:12 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:27:12 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:27:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:27:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:27:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:27:12 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:27:12 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:27:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:27:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:27:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:27:53 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:27:53 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:27:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 255
+[16-Jun-2024 19:27:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:27:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 258
+[16-Jun-2024 19:27:53 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 263
+[16-Jun-2024 19:27:53 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 267
+[16-Jun-2024 19:33:55 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:33:55 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:33:55 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:33:55 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 253
+[16-Jun-2024 19:33:55 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:33:55 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:33:55 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:33:55 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:33:55 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 253
+[16-Jun-2024 19:33:55 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:34:17 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:34:17 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:34:17 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:34:17 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 253
+[16-Jun-2024 19:34:17 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:34:17 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:34:17 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:34:17 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:34:17 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 253
+[16-Jun-2024 19:34:17 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[16-Jun-2024 19:36:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:36:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 246
+[16-Jun-2024 19:36:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:36:06 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:36:06 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 256
+[16-Jun-2024 19:36:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:36:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 246
+[16-Jun-2024 19:36:06 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:36:06 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:36:06 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 256
+[16-Jun-2024 19:36:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:36:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 246
+[16-Jun-2024 19:36:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:36:12 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:36:12 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 256
+[16-Jun-2024 19:36:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:36:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 246
+[16-Jun-2024 19:36:12 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 247
+[16-Jun-2024 19:36:12 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:36:12 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 256
+[16-Jun-2024 19:38:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:38:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:38:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:38:08 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 250
+[16-Jun-2024 19:38:08 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 254
+[16-Jun-2024 19:38:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:38:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:38:08 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:38:08 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 250
+[16-Jun-2024 19:38:08 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 254
+[16-Jun-2024 19:38:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:38:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:38:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:38:40 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 250
+[16-Jun-2024 19:38:40 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 254
+[16-Jun-2024 19:38:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:38:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:38:40 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:38:40 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 250
+[16-Jun-2024 19:38:40 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 254
+[16-Jun-2024 19:38:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:38:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:38:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:38:51 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 250
+[16-Jun-2024 19:38:51 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 254
+[16-Jun-2024 19:38:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:38:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:38:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:38:51 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 250
+[16-Jun-2024 19:38:51 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 254
+[16-Jun-2024 19:42:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:42:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:42:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:42:11 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 250
+[16-Jun-2024 19:42:11 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 254
+[16-Jun-2024 19:42:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:42:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 244
+[16-Jun-2024 19:42:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 245
+[16-Jun-2024 19:42:11 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 250
+[16-Jun-2024 19:42:11 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 254
+[16-Jun-2024 19:47:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:47:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:47:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:47:51 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:47:51 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:47:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:47:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:47:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:47:51 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:47:51 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:55:57 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:55:57 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:55:57 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:55:57 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:55:57 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:55:57 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:55:57 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:55:57 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:55:57 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:55:57 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined variable: resultado in /home7/cbu91029/public_html/citt/usuario/ganado/insertar_vacuno.php on line 38
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:57:24 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:57:29 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:57:29 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:57:29 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:57:29 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:57:29 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:57:29 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:57:29 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:57:29 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:57:29 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:57:29 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[16-Jun-2024 19:58:04 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 240
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 242
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 243
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 248
+[17-Jun-2024 20:52:59 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 252
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:53:51 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:54:35 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:54:46 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:55:11 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:55:14 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:55:14 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:55:14 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:55:14 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:55:14 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:55:14 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:55:14 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:55:14 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:55:14 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:55:14 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[17-Jun-2024 20:55:34 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 257
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 259
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 260
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 265
+[21-Jun-2024 17:31:22 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 269
+[01-Jul-2024 19:24:31 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_array() in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 167
+[01-Jul-2024 19:25:06 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_array() in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 167
+[01-Jul-2024 19:26:06 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:26:07 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:26:08 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:26:09 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:26:09 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:26:09 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:26:18 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:26:30 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:27:17 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:28:13 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:28:31 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_array() in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:158
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 158
+[01-Jul-2024 19:29:09 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:29:09 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:29:11 America/Santiago] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home7/cbu91029/public_html/citt/usuario/ganado/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:35:55 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:35:55 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[01-Jul-2024 19:35:57 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home7/cbu91029/public_html/citt/usuario/ganado/index.php on line 3
+[27-Aug-2024 15:10:28 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php:29) in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php on line 38
+[28-Aug-2024 17:10:19 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/eliminar_animal.php:35
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/eliminar_animal.php on line 35
+[28-Aug-2024 17:11:16 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/eliminar_animal.php:35
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/eliminar_animal.php on line 35
+[30-Sep-2024 17:52:18 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php:34
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php on line 34
+[30-Sep-2024 18:01:14 America/Santiago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php on line 36
+[30-Sep-2024 18:03:23 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php:47) in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php on line 55
+[30-Sep-2024 18:04:21 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php:52) in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php on line 60
+[30-Sep-2024 18:06:29 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php:52) in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php on line 60
+[30-Sep-2024 18:43:45 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php:31
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/ganado/porcinos/insertar_vacuno.php on line 31
