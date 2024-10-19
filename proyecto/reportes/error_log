@@ -1,0 +1,65 @@
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 167
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 168
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 172
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 185
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: nombre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 189
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: peso in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 193
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: fecha_nacimiento in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 197
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 201
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 203
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 204
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 205
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ID_padre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 210
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: numero_crotal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 217
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 221
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 223
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 224
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 229
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 233
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 167
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 168
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 172
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 185
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: nombre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 189
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: peso in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 193
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: fecha_nacimiento in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 197
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 201
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 203
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 204
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 205
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ID_padre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 210
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: numero_crotal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 217
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 221
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 223
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 224
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 229
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 233
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 167
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 168
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 172
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 185
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: nombre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 189
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: peso in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 193
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: fecha_nacimiento in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 197
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 201
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 203
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 204
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 205
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ID_padre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 210
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: numero_crotal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 217
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 221
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 223
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 224
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 229
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 233
+[28-May-2024 02:27:04 America/Santiago] PHP Warning:  require_once(/home7/cbu91029/public_html/citt/usuario/reportes/vendor/autoload.php): failed to open stream: No such file or directory in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 12
+[28-May-2024 02:27:04 America/Santiago] PHP Fatal error:  require_once(): Failed opening required '/home7/cbu91029/public_html/citt/usuario/reportes/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 12
+[28-May-2024 02:28:37 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 65
+[28-May-2024 02:29:19 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 65
+[28-May-2024 02:29:27 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 65
+[29-Aug-2024 20:17:10 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[29-Aug-2024 20:17:10 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[29-Aug-2024 20:17:10 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[29-Aug-2024 20:17:11 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[29-Aug-2024 20:17:11 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[29-Aug-2024 20:17:11 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
