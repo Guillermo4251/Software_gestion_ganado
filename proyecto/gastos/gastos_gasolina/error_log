@@ -1,0 +1,3 @@
+[24-Nov-2024 16:38:58 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/gastos/gastos_gasolina/index.php on line 176
+[24-Nov-2024 16:39:50 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/gastos/gastos_gasolina/index.php on line 176
+[24-Nov-2024 16:40:29 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/gastos/gastos_gasolina/index.php on line 176
