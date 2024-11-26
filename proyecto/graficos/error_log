@@ -1,0 +1,222 @@
+[14-Nov-2024 18:36:13 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:36:19 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:36:24 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:36:29 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:36:34 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:36:39 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:36:44 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:36:49 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:36:54 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:36:59 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:37:04 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:37:09 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:37:14 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:38:03 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:39:03 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:40:03 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:41:03 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:15
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/graficos/index.php(24): obtenerDatos(Object(mysqli))
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[14-Nov-2024 18:48:06 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 29
+[14-Nov-2024 18:49:53 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 29
+[14-Nov-2024 18:51:01 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 18:51:04 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 18:51:39 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 29
+[14-Nov-2024 19:00:57 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:01:06 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:04:32 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:04:49 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:05:06 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:05:07 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:05:10 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:05:11 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:05:13 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:08:10 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:08:15 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 11
+[14-Nov-2024 19:11:11 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 48
+[14-Nov-2024 19:11:36 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 48
+[14-Nov-2024 19:12:04 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 53
+[14-Nov-2024 19:13:33 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home7/cbu91029/public_html/citt/usuario/graficos/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 53
+[14-Nov-2024 19:14:24 America/Santiago] PHP Notice:  Undefined variable: resultado in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 50
+[14-Nov-2024 19:16:35 America/Santiago] PHP Notice:  Undefined variable: resultado in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 50
+[14-Nov-2024 21:25:32 America/Santiago] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 109
+[14-Nov-2024 21:25:32 America/Santiago] PHP Warning:  Use of undefined constant mes - assumed 'mes' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 109
+[14-Nov-2024 21:25:32 America/Santiago] PHP Notice:  Undefined index: datames in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 109
+[14-Nov-2024 21:25:39 America/Santiago] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 109
+[14-Nov-2024 21:25:39 America/Santiago] PHP Warning:  Use of undefined constant mes - assumed 'mes' (this will throw an Error in a future version of PHP) in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 109
+[14-Nov-2024 21:25:39 America/Santiago] PHP Notice:  Undefined index: datames in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 109
+[14-Nov-2024 21:40:22 America/Santiago] PHP Notice:  Undefined variable: id_animal in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 223
+[14-Nov-2024 21:40:32 America/Santiago] PHP Notice:  Undefined variable: id_animal in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 223
+[14-Nov-2024 21:42:34 America/Santiago] PHP Notice:  Undefined variable: id_animal in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 227
+[14-Nov-2024 21:42:42 America/Santiago] PHP Notice:  Undefined variable: id_animal in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 227
+[14-Nov-2024 21:43:05 America/Santiago] PHP Notice:  Undefined variable: id_animal in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 227
+[18-Nov-2024 16:25:15 America/Santiago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 201
+[18-Nov-2024 16:25:30 America/Santiago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 201
+[18-Nov-2024 16:25:48 America/Santiago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 201
+[18-Nov-2024 16:31:49 America/Santiago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 199
+[18-Nov-2024 16:32:09 America/Santiago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 199
+[18-Nov-2024 17:19:50 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 174
+[18-Nov-2024 17:27:58 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[18-Nov-2024 17:27:58 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 193
+[18-Nov-2024 17:28:08 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[18-Nov-2024 17:28:08 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 193
+[18-Nov-2024 17:28:44 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 174
+[18-Nov-2024 17:28:59 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 174
+[18-Nov-2024 17:33:09 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[18-Nov-2024 17:34:40 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[18-Nov-2024 17:34:50 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[18-Nov-2024 17:38:33 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[18-Nov-2024 17:38:44 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[18-Nov-2024 17:44:32 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 71
+[18-Nov-2024 17:45:05 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 71
+[18-Nov-2024 17:47:43 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[18-Nov-2024 17:50:33 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 15
+[18-Nov-2024 17:50:57 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 170
+[18-Nov-2024 17:51:20 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 174
+[18-Nov-2024 18:20:17 America/Santiago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 264
+[18-Nov-2024 18:25:15 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 14
+[18-Nov-2024 19:33:33 America/Santiago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 297
+[18-Nov-2024 19:33:36 America/Santiago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 297
+[18-Nov-2024 19:33:39 America/Santiago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 297
+[18-Nov-2024 19:33:51 America/Santiago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 297
+[18-Nov-2024 19:38:03 America/Santiago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 316
+[18-Nov-2024 19:40:08 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 156
+[18-Nov-2024 19:40:08 America/Santiago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 176
+[18-Nov-2024 19:46:41 America/Santiago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 80
+[18-Nov-2024 19:46:41 America/Santiago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 80
+[18-Nov-2024 19:46:41 America/Santiago] PHP Warning:  sort() expects parameter 1 to be array, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 81
+[18-Nov-2024 19:46:41 America/Santiago] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 82
+[18-Nov-2024 19:48:09 America/Santiago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 80
+[18-Nov-2024 19:48:09 America/Santiago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 80
+[18-Nov-2024 19:48:09 America/Santiago] PHP Warning:  sort() expects parameter 1 to be array, null given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 81
+[18-Nov-2024 19:48:09 America/Santiago] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 82
+[19-Nov-2024 00:02:59 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 281
+[19-Nov-2024 00:57:01 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 303
+[19-Nov-2024 00:58:59 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 308
+[23-Nov-2024 19:35:33 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home7/cbu91029/public_html/citt/usuario/graficos/index.php on line 123
