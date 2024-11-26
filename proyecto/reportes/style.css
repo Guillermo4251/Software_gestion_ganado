@@ -1,0 +1,522 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+:root {
+    --main-color: #028124;
+    --color-dark: #1D2231;
+    --text-grey: #8390A2;
+}
+
+
+/* BARRA A LA IZQUIERDA */
+
+/* ------------------
+        USUARIO
+   ---------------- */
+
+.profile-wrap {
+    padding: 30px 20px 12px;
+}
+
+.box-block {
+    display: block;
+}
+
+
+.mnp-name {
+    color: #e9e9e9;
+    margin: 0;
+    font-size: 1em;
+    font-weight: 700;
+}
+
+.mnp-desc {
+    font-size: .9em;
+    color: #e9e9e9;
+    opacity: 0.75;
+}
+
+/* ------------------ */
+
+#sidebar-toggle {
+    display: none;
+}
+
+.sidebar {
+    height: 100%;
+    width: 240px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 100;
+    background: var(--main-color);
+    color: #fff;
+    overflow-y: auto;
+    transition: width 500ms;
+}
+
+.sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 0rem 1rem;
+}
+
+.sidebar-menu {
+    padding: 1rem;
+}
+
+ul {
+    padding-left: 0 !important;
+}
+
+.sidebar li {
+    margin-bottom: 1.5rem;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: #fff;
+    font-size: .8rem;
+}
+
+.sidebar a span:last-child {
+    padding-left: .6rem;
+}
+
+#sidebar-toggle:checked~.sidebar {
+    width: 60px;
+}
+
+#sidebar-toggle:checked~.sidebar .sidebar-header h3 span,
+#sidebar-toggle:checked~.sidebar li span:last-child,
+#sidebar-toggle:checked~.sidebar .profile-wrap {
+    display: none;
+}
+
+.social-icons {
+    display: none;
+}
+
+
+#sidebar-toggle:checked~.sidebar .sidebar-header,
+#sidebar-toggle:checked~.sidebar li {
+    display: flex;
+    justify-content: center;
+}
+
+#sidebar-toggle:checked~.main-content {
+    margin-left: 60px;
+}
+
+
+
+#sidebar-toggle:checked~.main-content header {
+    left: 60px;
+    width: calc(100% - 60px);
+}
+
+
+
+/* FIN  BARRA A LA IZQUIERDA*/
+
+/* -----------
+    Asientos 
+   ----------- */
+
+.fila {
+    display: grid;
+    grid-template-rows: repeat(4, 80px);/* Cambia el valor de 1fr a 30px */
+    gap: 10px;/* Reducir el espacio entre las celdas */
+    grid-auto-flow: column;
+    border-top: 3px solid #28a72e;
+    border-bottom: 3px solid #28a72e;
+}
+
+.asiento {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 66px;
+    height: 66px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.disponible {
+    border: #000000 solid;
+    background-image: url('https://cdn.discordapp.com/attachments/1092536017497632878/1102721295570968576/342634.png');
+    background-color: #ffffff;
+    color: black;
+}
+
+.ocupado {
+    border: #000000 solid;
+    background-image: url('https://cdn.discordapp.com/attachments/1092536017497632878/1102721295570968576/342634.png');
+    background-color: #878787;
+    color: white;
+}
+
+/* -----------
+    Asientos
+   ----------- */
+
+header {
+    position: fixed;
+    left: 240px;
+    top: 0;
+    z-index: 100;
+    width: calc(100% - 240px);
+    background: #fff;
+    height: 60px;
+    padding: 0rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    transition: left 500ms;
+}
+
+/* PAGINA Usuario */
+
+.main-content {
+    position: relative;
+    margin-left: 240px;
+    transition: margin-left 500ms;
+}
+
+main {
+    margin-top: 60px;
+    background: #f1f5f9;
+    min-height: 90vh;
+    padding: 1rem 3rem;
+}
+
+/* PINCIPAL  */
+.activity-card,
+.summary-card,
+.bday-card {
+    background: #fff;
+    border-radius: 7px;
+}
+
+.activity-card h3 {
+    color: var(--text-grey);
+    margin: 1rem;
+}
+
+.activity-card table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.activity-card thead {
+    background: #efefef;
+    text-align: left;
+}
+
+
+.badge.warning {
+    background: #F0F6B2;
+    color: orange;
+}
+
+.td-team {
+    display: flex;
+    align-items: center;
+}
+
+/* -- */
+
+
+
+.text-center {
+    text-align: center;
+}
+
+.text-center button {
+    background: var(--main-color);
+    color: #fff;
+    border: 1px solid var(--main-color);
+    border-radius: 4px;
+    padding: .4rem 1rem;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+/* FORMULARIO */
+
+.horz-grid {
+    background: #fff;
+    margin-bottom: 1em;
+    padding: 1em;
+    border: 1px solid #ebeff6;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    /*-webkit:              Google Chrome y Safari */
+    -o-border-radius: 4px;
+    /*-o:                   Opera */
+    -moz-border-radius: 4px;
+    /*-moz:                 Mozilla Firefox */
+    -ms-border-radius: 4px;
+    /*-ms:                  Internet Explorer */
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.horz-grid:last-child {
+    margin-bottom: 0em;
+}
+
+.row.show-grid {
+    margin: 1em 0;
+}
+
+.show-grid [class^=col-] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px;
+    /*background: #f3f3f4;*/
+}
+
+.form-control1 {
+    border: 1px solid #e0e0e0;
+    padding: 5px 8px;
+    color: #616161;
+    width: 100%;
+    font-size: 0.85em;
+    font-weight: 300;
+    height: 40px;
+    -webkit-appearance: none;
+    outline: none;
+    background: none;
+    box-shadow: none !important;
+}
+.form-control2 {
+    border: 1px solid #e0e0e0;
+    padding: 5px 8px;
+    color: #616161;
+    width: 100%;
+    font-size: 0.85em;
+    font-weight: 20;
+    height: 120px;
+    -webkit-appearance: none;
+    outline: none;
+    background: none;
+    box-shadow: none !important;
+    white-space: pre-wrap;
+}
+
+.btn-guardar {
+    padding: 20px;
+}
+
+.grid-hor {
+    padding: 5px;
+    border-bottom: 1.5px solid rgb(235, 235, 235);
+}
+
+/* TABLA */
+.table-responsive {
+    overflow-x: auto;
+}
+
+.activity-card,
+.summary-card,
+.bday-card {
+    background: #fff;
+    border-radius: 7px;
+}
+
+.activity-card h3 {
+    color: var(--text-grey);
+    margin: 1rem;
+}
+
+.activity-card table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.activity-card thead {
+    background: #efefef;
+    text-align: left;
+}
+
+.recent {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+/* 
+.activity-grid {
+    display: grid;
+    grid-template-columns: 75% 25%;
+    grid-column-gap: 1.5rem;
+}
+*/
+.td-team {
+    display: flex;
+    align-items: center;
+}
+
+th,
+td {
+    font-size: .9rem;
+    padding: 1rem 1rem;
+    color: var(--color-dark);
+}
+
+td {
+    font-size: .8rem;
+}
+.textarea-grande {
+  width: 500px;
+  height: 200px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .sidebar {
+        width: 60px;
+        z-index: 150;
+    }
+
+    .sidebar .sidebar-header h3 span,
+    .sidebar li span:last-child,
+    .sidebar .profile-wrap {
+        display: none;
+    }
+
+    .search-wrapper {
+        opacity: 0;
+    }
+
+    .social-icons {
+        display: block;
+    }
+
+    .sidebar .sidebar-header,
+    .sidebar li {
+        display: flex;
+        justify-content: center;
+    }
+
+    .main-content {
+        margin-left: 60px;
+    }
+
+
+    .main-content header {
+        left: 60px;
+        width: calc(100% - 60px);
+    }
+
+    #sidebar-toggle:checked~.sidebar {
+        width: 240px;
+    }
+
+    #sidebar-toggle:checked~.sidebar .sidebar-header h3 span,
+    #sidebar-toggle:checked~.sidebar li span:last-child,
+    #sidebar-toggle:checked~.sidebar .profile-wrap {
+        display: inline;
+    }
+
+
+    #sidebar-toggle:checked~.sidebar .sidebar-header {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    #sidebar-toggle:checked~.sidebar li {
+        display: block;
+    }
+
+
+    #sidebar-toggle:checked~.main-content {
+        margin-left: 60px;
+    }
+
+    #sidebar-toggle:checked~.main-content header {
+        left: 60px;
+    }
+
+
+}
+
+@media only screen and (max-width: 860px) {
+    .dash-cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .card-single {
+        margin-bottom: 1rem;
+    }
+
+    .activity-grid {
+        display: block;
+    }
+
+    .summary {
+        margin-top: 1.5rem;
+    }
+
+    img.ti-unlink {
+        display: none;
+    }
+
+    .summary {
+        margin-top: 1.5rem;
+    }
+
+
+}
+
+@media only screen and (max-width: 600px) {
+    .dash-cards {
+        grid-template-columns: 100%;
+    }
+
+}
+
+@media only screen and (max-width: 450px) {
+
+    main {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    img.ti-unlink {
+        display: none;
+    }
+
+}
+
+/* FIN USUARIO */
+
+/*--MODAL--*/
+/* ocultar el botón de cerrar */
+.modal-header .close {
+    display: none;
+}
+
+/* centrar los botones en el centro */
+.modal-footer {
+    display: flex;
+    justify-content: center;
+}

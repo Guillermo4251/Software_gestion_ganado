@@ -1,0 +1,114 @@
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 167
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 168
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 172
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 185
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: nombre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 189
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: peso in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 193
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: fecha_nacimiento in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 197
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 201
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 203
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 204
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 205
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ID_padre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 210
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: numero_crotal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 217
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 221
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 223
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 224
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 229
+[27-May-2024 21:27:27 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 233
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 167
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 168
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 172
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 185
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: nombre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 189
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: peso in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 193
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: fecha_nacimiento in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 197
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 201
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 203
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 204
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 205
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ID_padre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 210
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: numero_crotal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 217
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 221
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 223
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 224
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 229
+[27-May-2024 21:28:09 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 233
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 167
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 168
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 172
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ID_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 185
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: nombre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 189
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: peso in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 193
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: fecha_nacimiento in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 197
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 201
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 203
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 204
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: tipo_animal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 205
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ID_padre in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 210
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: numero_crotal in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 217
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 221
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 223
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: genero in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 224
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: primer_celo in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 229
+[27-May-2024 21:28:53 America/Santiago] PHP Notice:  Undefined index: ultimo_parto in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 233
+[28-May-2024 02:27:04 America/Santiago] PHP Warning:  require_once(/home7/cbu91029/public_html/citt/usuario/reportes/vendor/autoload.php): failed to open stream: No such file or directory in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 12
+[28-May-2024 02:27:04 America/Santiago] PHP Fatal error:  require_once(): Failed opening required '/home7/cbu91029/public_html/citt/usuario/reportes/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 12
+[28-May-2024 02:28:37 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 65
+[28-May-2024 02:29:19 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 65
+[28-May-2024 02:29:27 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 65
+[29-Aug-2024 20:17:10 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[29-Aug-2024 20:17:10 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[29-Aug-2024 20:17:10 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[29-Aug-2024 20:17:11 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[29-Aug-2024 20:17:11 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[29-Aug-2024 20:17:11 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home7/cbu91029/public_html/citt/usuario/reportes/generar_reporte.php on line 2
+[04-Nov-2024 22:27:36 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/enviar_correo.php:5) in /home7/cbu91029/public_html/citt/usuario/reportes/enviar_correo.php on line 6
+[11-Nov-2024 17:59:28 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 56
+[11-Nov-2024 17:59:28 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 57
+[11-Nov-2024 17:59:28 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 58
+[11-Nov-2024 17:59:32 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 56
+[11-Nov-2024 17:59:32 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 57
+[11-Nov-2024 17:59:32 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 58
+[11-Nov-2024 18:00:53 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 56
+[11-Nov-2024 18:00:53 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 57
+[11-Nov-2024 18:00:53 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 58
+[11-Nov-2024 18:00:57 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 56
+[11-Nov-2024 18:00:57 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 57
+[11-Nov-2024 18:00:57 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 58
+[11-Nov-2024 18:00:59 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 56
+[11-Nov-2024 18:00:59 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 57
+[11-Nov-2024 18:00:59 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php:22) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 58
+[11-Nov-2024 18:18:42 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'usuario'@'localhost' (using password: YES) in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 9
+[11-Nov-2024 18:25:08 America/Santiago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 47
+[11-Nov-2024 18:25:13 America/Santiago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 47
+[11-Nov-2024 18:37:45 America/Santiago] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 76
+[11-Nov-2024 18:37:45 America/Santiago] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 76
+[11-Nov-2024 18:37:45 America/Santiago] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 76
+[11-Nov-2024 18:49:34 America/Santiago] PHP Notice:  Undefined variable: columns in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 154
+[11-Nov-2024 18:49:34 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 154
+[11-Nov-2024 18:59:25 America/Santiago] PHP Notice:  Undefined variable: columns in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 158
+[11-Nov-2024 18:59:25 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 158
+[11-Nov-2024 19:00:09 America/Santiago] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Column string index can not be longer than 3 characters in /home7/cbu91029/public_html/citt/usuario/reportes/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php:292
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/reportes/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php(1399): PhpOffice\PhpSpreadsheet\Cell\Coordinate::columnIndexFromString('ID_ANIMAL')
+#1 /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php(68): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->getColumnDimension('ID_ANIMAL')
+#2 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/reportes/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php on line 292
+[14-Nov-2024 17:33:53 America/Santiago] PHP Fatal error:  Uncaught TypeError: PDO::__construct() expects parameter 4 to be array, string given in /home7/cbu91029/public_html/citt/usuario/reportes/index.php:72
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/reportes/index.php(72): PDO->__construct('localhost', 'cbu91029_cberri...', 'carlitrox21', 'cbu91029_citt')
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 72
+[14-Nov-2024 17:36:13 America/Santiago] PHP Fatal error:  Uncaught TypeError: PDO::__construct() expects parameter 4 to be array, string given in /home7/cbu91029/public_html/citt/usuario/reportes/index.php:68
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/reportes/index.php(68): PDO->__construct('localhost', 'cbu91029_cberri...', 'carlitrox21', 'cbu91029_citt')
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 68
+[14-Nov-2024 17:36:22 America/Santiago] PHP Fatal error:  Uncaught TypeError: PDO::__construct() expects parameter 4 to be array, string given in /home7/cbu91029/public_html/citt/usuario/reportes/index.php:68
+Stack trace:
+#0 /home7/cbu91029/public_html/citt/usuario/reportes/index.php(68): PDO->__construct('localhost', 'cbu91029_cberri...', 'carlitrox21', 'cbu91029_citt')
+#1 {main}
+  thrown in /home7/cbu91029/public_html/citt/usuario/reportes/index.php on line 68
+[15-Nov-2024 17:03:40 America/Santiago] PHP Warning:  file_get_contents(https://nukatech.cl/citt/usuario/slidebar.php): failed to open stream: HTTP request failed! HTTP/1.1 508 Loop Detected
+ in /home7/cbu91029/public_html/citt/usuario/reportes/Bovinos.php on line 62
